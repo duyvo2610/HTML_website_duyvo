@@ -1,0 +1,12 @@
+body {color: black; font-size: 20px} 
+h2 {color: deepskyblue; font-size: 40px;} 	
+#bio {color: brown; font-size: 20px; font-weight: bold; font-family: Lucida console;} 
+ 
+a:link {color:blue;}
+a:visited {color:blue;}
+a:hover {color:red;}
+a:active {color:brown;}
+
+
+
+
